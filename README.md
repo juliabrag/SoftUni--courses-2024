@@ -1,1 +1,1 @@
-# SoftUni--courses-2024
+# SoftUni-courses-2024
